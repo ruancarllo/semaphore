@@ -1,0 +1,78 @@
+{
+  "@@locale": "pt",
+  
+  "genericTaskStatusName": "Todos",
+  "@genericTaskStatusName": {
+    "description": "Texto a ser exibido para informar que uma tarefa está no estado de exibição genérico."
+  },
+
+  "enteredTaskStatusName": "Novos",
+  "@enteredTaskStatusName": {
+    "description": "Texto a ser exibido para informar que uma tarefa está no estado de exibição entrado."
+  },
+
+  "progressTaskStatusName": "Em produção",
+  "@progressTaskStatusName": {
+    "description": "Texto a ser exibido para informar que uma tarefa está no estado de exibição em progresso."
+  },
+
+  "deliveredTaskStatusName": "Entregues",
+  "@deliveredTaskStatusName": {
+    "description": "Texto a ser exibido para informar que uma tarefa está no estado de exibição entregue."
+  },
+
+  "receivedTaskStatusName": "Recebidos",
+  "@receivedTaskStatusName": {
+    "description": "Texto a ser exibido para informar que uma tarefa está no estado de exibição recebido."
+  },
+  
+  "unpaidTaskStatusName": "Não pagos",
+  "@unpaidTaskStatusName": {
+    "description": "Texto a ser exibido para informar que uma tarefa está no estado de exibição não pago."
+  },
+
+  "messageInputPlaceholder": "Pedido",
+  "@messageInputPlaceholder": {
+    "description": "Texto a ser exibido em espaços reservados de inputs de pedidos de tarefas."
+  },
+
+  "dateInputPlaceholder": "Data",
+  "@dateInputPlaceholder": {
+    "description": "Texto a ser exibido em espaços reservados de inputs de datas de tarefas."
+  },
+
+  "priceInputPlaceholder": "Preço",
+  "@priceInputPlaceholder": {
+    "description": "Texto a ser exibido em espaços reservados de inputs de preços de tarefas."
+  },
+
+  "saveButtonActionName": "Salvar",
+  "@saveButtonActionName": {
+    "description": "Texto a ser exibido em botões de salvar."
+  },
+
+  "removeButtonActionName": "Remover",
+  "@removeButtonActionName": {
+    "description": "Texto a ser exibido em botões de remover."
+  },
+
+  "yearsListHeader": "Anos",
+  "@yearsListHeader": {
+    "description": "Texto a ser exibido como cabeçalho de uma lista de anos."
+  },
+
+  "taskRemotionConfirmationSentence": "Deseja mesmo deletar este serviço?",
+  "@taskRemotionConfirmationSentence": {
+    "description": "Uma frase que pergunta se o usuário realmente deseja remover um serviço."
+  },
+
+  "confirmationButtonActionName": "Sim",
+  "@confirmationButtonActionName": {
+    "description": "Texto a ser exibido em botões de confirmar."
+  },
+
+  "negationButtonActionName": "Não",
+  "@negationButtonActionName": {
+    "description": "Texto a ser exibido em botões de negar."
+  }
+}

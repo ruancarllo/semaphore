@@ -1,0 +1,78 @@
+{
+  "@@locale": "en",
+  
+  "genericTaskStatusName": "All",
+  "@genericTaskStatusName": {
+    "description": "Text to be displayed to inform that a task is in the generic display state."
+  },
+
+  "enteredTaskStatusName": "Entered",
+  "@enteredTaskStatusName": {
+    "description": "Text to be displayed to inform that a task is in the entered display state."
+  },
+
+  "progressTaskStatusName": "Progress",
+  "@progressTaskStatusName": {
+    "description": "Text to be displayed to inform that a task is in the progress display state."
+  },
+
+  "deliveredTaskStatusName": "Delivered",
+  "@deliveredTaskStatusName": {
+    "description": "Text to be displayed to inform that a task is in the delivered display state."
+  },
+
+  "receivedTaskStatusName": "Received",
+  "@receivedTaskStatusName": {
+    "description": "Text to be displayed to inform that a task is in the received display state."
+  },
+  
+  "unpaidTaskStatusName": "Unpaid",
+  "@unpaidTaskStatusName": {
+    "description": "Text to be displayed to inform that a task is in the unpaid display state."
+  },
+
+  "messageInputPlaceholder": "Order",
+  "@messageInputPlaceholder": {
+    "description": "Text to be displayed in placeholders for task message inputs."
+  },
+
+  "dateInputPlaceholder": "Date",
+  "@dateInputPlaceholder": {
+    "description": "Text to be displayed in placeholders for task date inputs."
+  },
+
+  "priceInputPlaceholder": "Price",
+  "@priceInputPlaceholder": {
+    "description": "Text to be displayed in placeholders for task price inputs."
+  },
+
+  "saveButtonActionName": "Save",
+  "@saveButtonActionName": {
+    "description": "Text to be displayed in save buttons."
+  },
+
+  "removeButtonActionName": "Remove",
+  "@removeButtonActionName": {
+    "description": "Text to be displayed in remove buttons."
+  },
+
+  "yearsListHeader": "Years",
+  "@yearsListHeader": {
+    "description": "Text to be displayed as header for a list of years."
+  },
+
+  "taskRemotionConfirmationSentence": "Do you really want to delete this order?",
+  "@taskRemotionConfirmationSentence": {
+    "description": "A phrase that asks whether the user really wants to remove an order."
+  },
+
+  "confirmationButtonActionName": "Yes",
+  "@confirmationButtonActionName": {
+    "description": "Text to be displayed in confirmation buttons."
+  },
+
+  "negationButtonActionName": "No",
+  "@negationButtonActionName": {
+    "description": "Text to be displayed in negation buttons."
+  }
+}

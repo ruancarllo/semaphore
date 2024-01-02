@@ -1,0 +1,40 @@
+name: semaphore
+description: "An application to manage your empresarial orders"
+
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  provider: ^6.1.1
+  path_provider: ^2.1.1
+  filesystem_picker: ^4.1.0
+  rename: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  generate: true
+  uses-material-design: true
+  fonts:
+    - family: ArchivoNarrow
+      fonts:
+        - asset: assets/fonts/ArchivoNarrow/ArchivoNarrow-VariableFont_wght.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/semaphore-icon-painted.png"
+  adaptive_icon_background: "#002b36"
+  adaptive_icon_foreground: "assets/icons/semaphore-icon-padded.png"
