@@ -74,10 +74,8 @@ rm -rf .dart_tool .flutter-plugins .flutter-plugins-dependencies android ios bui
 
 ## Preview
 
-<table>
-  <tr>
-    <td><img src="docs/Application preview 1.png"></td>
-    <td><img src="docs/Application preview 3.png"></td>
-    <td><img src="docs/Application preview 5.png"></td>
-  </tr>
-<table>
+<p align="center">
+  <img src="docs/Application preview 1.png" width="30%">
+  <img src="docs/Application preview 3.png" width="30%">
+  <img src="docs/Application preview 5.png" width="30%">
+</p>
