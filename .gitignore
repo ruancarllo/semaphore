@@ -1,0 +1,27 @@
+# Trashes
+**/.DS_Store
+
+# Dependencies
+**/.dart_tool
+**/pubspec.lock
+
+# Auto-generated
+app/.idea
+app/.metadata
+app/.gitignore
+app/test
+app/app.iml
+app/README.md
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+
+# Platform-specific
+app/android
+app/ios
+app/build
+
+# Third-party
+app/assets/fonts/ArchivoNarrow
+
+# Exports
+app/mobile/*.apk
