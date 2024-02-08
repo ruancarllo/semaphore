@@ -2,17 +2,5 @@
   "files.exclude": {
     "**/.dart_tool": true,
     "**/pubspec.lock": true,
-    "**/.DS_Store": true,
-    "app/.idea": true,
-    "app/.metadata": true,
-    "app/.gitignore": true,
-    "app/test": true,
-    "app/app.iml": true,
-    "app/README.md": true,
-    "app/.flutter-plugins": true,
-    "app/.flutter-plugins-dependencies": true,
-    "app/android": true,
-    "app/ios": true,
-    "app/build": true
   }
 }

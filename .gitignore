@@ -1,6 +1,3 @@
-# Trashes
-**/.DS_Store
-
 # Dependencies
 **/.dart_tool
 **/pubspec.lock

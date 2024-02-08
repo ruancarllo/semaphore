@@ -34,7 +34,7 @@ flutter gen-l10n
 4. Remove unnecessary files for the task:
 
 ```shell
-rm -rf .idea .metadata .gitignore test app.iml README.md
+rm -rf .idea .metadata .gitignore .flutter-plugins .flutter-plugins-dependencies test app.iml README.md
 ```
 
 5. Download the third-party font used in the interface:
