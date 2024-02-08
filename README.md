@@ -64,6 +64,13 @@ flutter build apk
 cp build/app/outputs/flutter-apk/app-release.apk mobile/semaphore.apk
 ```
 
+You can also generate a bundle for production using the following commands instead of the last step:
+
+```shell
+flutter build appbundle --release
+cp build/app/outputs/bundle/release/app-release.aab mobile/semaphore.aab
+```
+
 ## Resetting
 
 If you want to reset this project to its original repository conditions, run this command in the [app](./app) folder.

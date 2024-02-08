@@ -22,3 +22,4 @@ app/assets/fonts/ArchivoNarrow
 
 # Exports
 app/mobile/*.apk
+app/mobile/*.aab
